@@ -1,6 +1,6 @@
 {
   "name": "bitmex-candle",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Interface for BitMEX candle",
   "main": "dist/bitmex-candle.js",
   "types": "dist/bitmex-candle.d.ts",
